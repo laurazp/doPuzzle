@@ -1,3 +1,34 @@
 <resources>
-    <string name="app_name">doPuzzle</string>
+    <string name="app_name">DoPuzzle</string>
+    <string name="player_id" translatable="false">Id:</string>
+    <string name="player_name">Player:</string>
+    <string name="player_score">Score:</string>
+    <string name="hint" translatable="false">player_name</string>
+    <string name="item_menu" translatable="false">New Player</string>
+    <string name="Start" translatable="false">Start</string>
+    <string name="Player_score" translatable="false">Player Name</string>
+    <string name="select_audio_file_title" translatable="false" />
+    <string name="scoretable" translatable="false">ScoreTable</string>
+    <string name="nick_name">Choose Your nick:</string>
+    <string name="exit">Exit</string>
+    <string name="welcome">Welcome to PuzzleDroid</string>
+    <string name="select_language">Select a Language</string>
+    <string name="about_us">About us</string>
+    <string name="home">Home</string>
+    <string name="doPuzzle" translatable="false">DoPuzzle</string>
+    <string name="play">Play</string>
+    <string name="options">Options</string>
+    <string name="choose_an_option">Choose an option:</string>
+    <string name="select_a_puzzle">Select a Puzzle</string>
+    <string name="open_your_photos">Open Your Photos</string>
+    <string name="back_to_menu">Back To Menu</string>
+    <string name="settings">SETTINGS</string>
+    <string name="music">Music</string>
+    <string name="sounds">Sounds</string>
+    <string name="back">BACK</string>
+    <string name="select_music">Select Music</string>
+    <string name="score">Score:</string>
+    <string name="high_score">High Score:</string>
+    <string name="play_again" translatable="false">Play Again</string>
+    <string name="see_scoretable">See ScoreTable</string>
 </resources>
